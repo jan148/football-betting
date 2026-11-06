@@ -1,0 +1,12 @@
+# Environment
+.venv
+
+# PyCharm
+/.idea
+
+# Data
+/Data/
+/Archive/
+*.pkl
+*.csv
+Core/models.py
