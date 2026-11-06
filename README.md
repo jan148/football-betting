@@ -1,6 +1,6 @@
 # Football bets wager model
 
-Wager model for football bets (only general result bets). Note that this repo only contains a part of the project.
+Wager model for football bets (only general result bets). Note that this repo only contains a part of the project and won't run on its own.
 
 ## Main
 
