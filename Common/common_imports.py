@@ -28,6 +28,4 @@ leagues_seasons_curr = [
 
 leagues = [l_s.split("_")[0] for l_s in leagues_seasons_curr]
 
-abs_path = "/Users/neu/Library/Mobile Documents/com~apple~CloudDocs/FootballPrediction"
-
 current_season = "2526"
