@@ -10,3 +10,7 @@
 *.pkl
 *.csv
 Core/models.py
+
+# Misc
+__pycache__/
+*.py[cod]
